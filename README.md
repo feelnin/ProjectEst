@@ -2,6 +2,7 @@
 Here contains my first hands-on full-stack project, using the framework Angular that is based in Typescritp for front-end. 
 For back-end it was used C# with .Net Entity Core. The comunication with the database was made by using SQL lite.
 This project back-end contais the four layers: Domain, persistence, aplication and Api (project of class).
+<<<<<<< HEAD
 Also for test of request I used Postman. 
 
 # ProjectEstApp
@@ -32,3 +33,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+=======
+Also for test of request it was used Postman and for control the code versioning control it was used Git. 
+>>>>>>> 2488624385289d0c00e10d0ca011c84cc6ba943c
